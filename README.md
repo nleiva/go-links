@@ -1,4 +1,4 @@
-# go-links
+# Go links
 
 Everybody has their own list, I get it!, I guess this is just mine or it was initially (I do accept PR's).
 
@@ -23,7 +23,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
 
-### Why Go?
+### Why Go?
 * [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 * [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
 * [Why Go is my favorite programming language](https://michael.stapelberg.de/Artikel/golang_favorite)
@@ -61,7 +61,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [understanding the interface](https://speakerd.s3.amazonaws.com/presentations/72338d4499864bf18ee566fab22e01ec/pdf.pdf)
 * [Methods, Interfaces and Embedded Types in Go](https://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
 
-### Channels
+### Channels
 * [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels)
 * [Curious Channels](https://dave.cheney.net/tag/golang-3)
 * [Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
