@@ -61,6 +61,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [understanding the interface](https://speakerd.s3.amazonaws.com/presentations/72338d4499864bf18ee566fab22e01ec/pdf.pdf)
 * [Methods, Interfaces and Embedded Types in Go](https://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
 
+### Concurrency
+* [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
+* [Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
+
 ### Channels
 * [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels)
 * [Curious Channels](https://dave.cheney.net/tag/golang-3)
@@ -115,6 +119,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ## Playlists
 * [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
 * [Golang UK Conference 2017](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9)
+* [dotGo 2017](https://www.youtube.com/watch?v=Yx6FBsGNOp4&list=PLMW8Xq7bXrG7acNjsU5YMGl5MMK5gl2vn)
 
 ## Cool Open Source Go projects 
 * [Awesome Go](https://github.com/avelino/awesome-go)
