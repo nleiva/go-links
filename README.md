@@ -1,4 +1,4 @@
-# Go links
+# Go links :ok_hand:
 
 Everybody has their own list, I get it!, I guess this is just mine or it was initially (I do accept PR's).
 
