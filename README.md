@@ -66,16 +66,21 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
 
 ### Channels
-* [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels)
+* [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels), [Video](https://www.youtube.com/watch?v=KBZlN0izeiY)
 * [Curious Channels](https://dave.cheney.net/tag/golang-3)
 * [Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 
 ### Reflection
-* [GoReflectionTalk](https://github.com/candysmurf/GoReflectionTalk)
+* [The Power and Elegance of Reflection](https://github.com/candysmurf/GoReflectionTalk), [Video](https://www.youtube.com/watch?v=lI17OEJCPVw&t=133s)
 
 ### Context
 * [The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw)
 * [Context and Cancellation of goroutines](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
+
+### Errors
+* [Stack traces and the errors package](https://dave.cheney.net/2016/06/12/stack-traces-and-the-errors-package)
+* [Don’t just check errors, handle them gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully), [Video](https://www.youtube.com/watch?v=lsBF58Q-DnY)
+* [Go Lift](https://www.youtube.com/watch?v=1B71SL6Y0kA)
 
 ### Testing
 * [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
