@@ -95,7 +95,6 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Reddit](https://www.reddit.com/r/golang/)
 * [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts)
 
-
 ## Blogs/Channels
 * [Go Walkthrough](https://medium.com/go-walkthrough)
 * [Dave Cheney](https://dave.cheney.net/)
@@ -111,6 +110,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Sourcegraph](https://about.sourcegraph.com/go/)
 * [Golangbot](https://golangbot.com/)
 * [GopherVids](http://gophervids.appspot.com/)
+* [Learn Go Programming](https://blog.learngoprogramming.com/)
 
 ## Playlists
 * [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
