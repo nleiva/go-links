@@ -14,6 +14,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
 * [Go by Example](https://gobyexample.com/)
+* [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
 * [Go Wiki](https://github.com/golang/go/wiki)
 * [Go Articles](https://golang.org/doc/#articles)
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
@@ -50,6 +51,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Nice benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
 
 ### Interfaces
+* [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
 * [Important interfaces that every Go developer should know](https://spino.tech/blog/important-go-interfaces/)
 * [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
 * [Intro++ to Go Interfaces](https://npf.io/2014/05/intro-to-go-interfaces/)
@@ -60,6 +62,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Concurrency
 * [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
+* ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA)
 
 ### Channels
 * [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels), [Video](https://www.youtube.com/watch?v=KBZlN0izeiY)
@@ -150,7 +153,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Font](https://github.com/tonsky/FiraCode)
 
 ## Slides
-* [package present](https://godoc.org/golang.org/x/tools/present)
+* [Package present](https://godoc.org/golang.org/x/tools/present)
 * [Inside the "present" tool](https://talks.golang.org/2012/insidepresent.slide#1)
 * [How Do I Create A Presentation Using Go?](https://blog.joshsoftware.com/2014/03/10/how-do-i-create-a-presentation-using-go/)
 * [Go presentation tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html)
