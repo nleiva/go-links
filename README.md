@@ -31,10 +31,6 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Golang and why it matters](https://medium.com/@jamesotoole/golang-and-why-it-matters-1710b3af96f7)
 * [Why Golang is great for network services](http://nikhilism.com/post/2016/why-golang-great-for-network-services/)
 
-### Github or Gerrit?
-* [Accept Github PRs](https://github.com/golang/go/issues/18517)
-* [Just Use Github](https://github.com/golang/go/issues/21956)
-
 ### Writing Go Code 
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [Organizing Go code](http://talks.golang.org/2014/organizeio.slide#1)
@@ -69,6 +65,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels), [Video](https://www.youtube.com/watch?v=KBZlN0izeiY)
 * [Curious Channels](https://dave.cheney.net/tag/golang-3)
 * [Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
+* [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ)
 
 ### Reflection
 * [The Power and Elegance of Reflection](https://github.com/candysmurf/GoReflectionTalk), [Video](https://www.youtube.com/watch?v=lI17OEJCPVw&t=133s)
@@ -98,6 +95,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Use multi-stage builds](https://docs.docker.com/engine/userguide/eng-image/multistage-build/)
 * [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
 
+### Github or Gerrit?
+* [Accept Github PRs](https://github.com/golang/go/issues/18517)
+* [Just Use Github](https://github.com/golang/go/issues/21956)
+
 ## Community
 * [Go Forum](https://forum.golangbridge.org/)
 * [Gophers Slack](https://gophers.slack.com/)
@@ -122,9 +123,20 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Learn Go Programming](https://blog.learngoprogramming.com/)
 
 ## Playlists
-* [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
-* [Golang UK Conference 2017](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9)
-* [dotGo 2017](https://www.youtube.com/watch?v=Yx6FBsGNOp4&list=PLMW8Xq7bXrG7acNjsU5YMGl5MMK5gl2vn)
+* [GopherCon](https://gophercon.com/)
+ - [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
+ - [GopherCon 2016](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
+ - [GopherCon 2015](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
+ - [GopherCon 2014](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBcD_BiJiDJUcyrb2w3bTulF)
+* [dotConferences](https://www.dotconferences.com/)
+ - [dotGo 2017](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG7acNjsU5YMGl5MMK5gl2vn)
+ - [dotGo 2016](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG6tcAXDsAVATUbrflLOsIG_)
+ - [dotGo 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG4Vw-JAnBmqA2IqzM2sf2Na)
+ - [dotGo 2014](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG58Qk-9QSy2HRh2WVeIrs7e)
+* [Golang UK Conference](https://www.golanguk.com/)
+ - [Golang UK Conference 2017](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9)
+ - [Golang UK Conference 2016](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g)
+ - [Golang UK Conference 2015](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd)
 
 ## Cool Open Source Go projects 
 * [Awesome Go](https://github.com/avelino/awesome-go)
