@@ -157,6 +157,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Inside the "present" tool](https://talks.golang.org/2012/insidepresent.slide#1)
 * [How Do I Create A Presentation Using Go?](https://blog.joshsoftware.com/2014/03/10/how-do-i-create-a-presentation-using-go/)
 * [Go presentation tool](http://halyph.com/blog/2015/05/18/golang-presentation-tool.html)
+* [Gophers under CC0 license](https://github.com/egonelbre/gophers)
 
 ## Books
 * [Go Bootcamp](http://www.golangbootcamp.com/book)
