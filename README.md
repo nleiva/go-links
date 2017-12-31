@@ -92,6 +92,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg)
 * [grpc: From Tutorial to Production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
+* [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
 
 ### Dockerfiles
 * [A Dockerfile tailored for Golang applications](https://ops.tips/blog/dockerfile-golang/)
