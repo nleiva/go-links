@@ -146,7 +146,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [Golang UK Conference 2015](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd)
 * [GothamGo](http://gothamgo.com/)
   * [GothamGo 2017](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-)
-  * [GothamGo 2016](https://www.youtube.com/playlist?list=PLeGxIOPLk9EKlDXkzKgQLrBhcwWUtUeEk)
+  * [GothamGo 2016](https://www.youtube.com/playlist?list=PLeGxIOPLk9EKlDXkzKgQLrBhcwWUtUeEk)
   * [GothamGo 2015](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELh9tsPZMzau6CzMjfMzp9-)
 
 ## Cool Open Source Go projects 
