@@ -20,6 +20,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 * [Go talks](https://talks.golang.org/)
+* [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
 * [Learning more about Go](https://github.com/golang/go/wiki#learning-more-about-go)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
@@ -38,7 +39,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
+* [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 * [Naming](https://talks.golang.org/2014/names.slide#1)
+* [Package names](https://blog.golang.org/package-names)
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns)
 * [Style guideline for Go packages](https://rakyll.org/style-packages/)
@@ -141,17 +144,23 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [Golang UK Conference 2017](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9)
   * [Golang UK Conference 2016](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g)
   * [Golang UK Conference 2015](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd)
+* [GothamGo](http://gothamgo.com/)
+  * [GothamGo 2017](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-)
+  * [GothamGo 2016](https://www.youtube.com/playlist?list=PLeGxIOPLk9EKlDXkzKgQLrBhcwWUtUeEk)
+  * [GothamGo 2015](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELh9tsPZMzau6CzMjfMzp9-)
 
 ## Cool Open Source Go projects 
 * [Awesome Go](https://github.com/avelino/awesome-go)
 * [Prometheus](https://github.com/prometheus/prometheus)
 * [InfluxDB](https://github.com/influxdata/influxdb)
-* [Moby](https://github.com/moby/moby)
+* [Moby](https://github.com/moby/moby) (Docker!)
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 ## IDE
-* [VS Code](https://code.visualstudio.com/)
-* [Font](https://github.com/tonsky/FiraCode)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Go with Visual Studio Code](https://www.youtube.com/watch?v=SwAhE5zgsbQ)
+* [Font: FiraCode](https://github.com/tonsky/FiraCode)
+* [GoLand](https://www.jetbrains.com/go/)
 
 ## Slides
 * [Package present](https://godoc.org/golang.org/x/tools/present)
