@@ -26,6 +26,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go Proverbs](https://go-proverbs.github.io/)
 
 ### Why Go?
+* [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+* [The Why of Go](https://www.infoq.com/presentations/go-concurrency-gc)
 * [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 * [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
 * [Why Go is my favorite programming language](https://michael.stapelberg.de/Artikel/golang_favorite)
