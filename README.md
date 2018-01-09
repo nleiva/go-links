@@ -54,6 +54,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [How to ship production-grade Go](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 * [Idiomatic Go](https://pocketgophers.com/idiomatic-go/)
 * [Nice benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
+* [Go Examples of Common Patterns](https://github.com/jbuberel/go-patterns)
+* [Go Design Patterns](https://github.com/yksz/go-design-patterns)
+* [go-algorithms](https://github.com/0xAX/go-algorithms)
 
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
@@ -63,6 +66,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Hacking Go Interfaces](https://dev.to/loderunner/hacking-go-interfaces)
 * [understanding the interface](https://speakerd.s3.amazonaws.com/presentations/72338d4499864bf18ee566fab22e01ec/pdf.pdf)
 * [Methods, Interfaces and Embedded Types in Go](https://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
+* [Exploring Readers and Writers](https://github.com/miku/exploreio)
 
 ### Concurrency
 * [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
