@@ -109,7 +109,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Dockerfiles
 * [Docker official Go repository](https://hub.docker.com/_/golang/)
 * [Docker Alpine](https://github.com/gliderlabs/docker-alpine)
-* [Distroless" Docker Images](https://github.com/GoogleCloudPlatform/distroless)
+* ["Distroless" Docker Images](https://github.com/GoogleCloudPlatform/distroless)
 * [Dockerize Go Applications](https://thenewstack.io/dockerize-go-applications/)
 * [Creating optimised Docker Images using Multi-Stage Builds](https://www.katacoda.com/courses/docker/multi-stage-builds)
 * [Lean Go Containers with Multi-Stage Dockerfiles](http://container-solutions.com/lean-go-containers-multi-stage-dockerfiles/)
