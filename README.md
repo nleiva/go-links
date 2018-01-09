@@ -107,7 +107,13 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
 
 ### Dockerfiles
-* [A Dockerfile tailored for Golang applications](https://ops.tips/blog/dockerfile-golang/)
+* [Docker official Go repository](https://hub.docker.com/_/golang/)
+* [Docker Alpine](https://github.com/gliderlabs/docker-alpine)
+* [Distroless" Docker Images](https://github.com/GoogleCloudPlatform/distroless)
+* [Dockerize Go Applications](https://thenewstack.io/dockerize-go-applications/)
+* [Creating optimised Docker Images using Multi-Stage Builds](https://www.katacoda.com/courses/docker/multi-stage-builds)
+* [Lean Go Containers with Multi-Stage Dockerfiles](http://container-solutions.com/lean-go-containers-multi-stage-dockerfiles/)
+* [Multi-Stage Docker Builds for Creating Tiny Go Images](https://medium.com/travis-on-docker/multi-stage-docker-builds-for-creating-tiny-go-images-e0e1867efe5a)
 * [Use multi-stage builds](https://docs.docker.com/engine/userguide/eng-image/multistage-build/)
 * [Golang: Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
 
