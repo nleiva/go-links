@@ -37,6 +37,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ### Writing Go Code 
 * [How to Write Go Code](https://golang.org/doc/code.html)
+* [Go Patterns](https://github.com/tmrts/go-patterns)
 * [Organizing Go code](http://talks.golang.org/2014/organizeio.slide#1)
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
@@ -55,7 +56,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Idiomatic Go](https://pocketgophers.com/idiomatic-go/)
 * [Nice benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
 * [Go Examples of Common Patterns](https://github.com/jbuberel/go-patterns)
-* [Go Design Patterns](https://github.com/yksz/go-design-patterns)
+* [Practical Advice for Go Library Authors](https://youtu.be/5v2fqm_8jYI)
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
 
 ### Interfaces
