@@ -48,6 +48,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns)
 * [Style guideline for Go packages](https://rakyll.org/style-packages/)
+* [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Writing high-performance Go code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Comparison operators in Go](https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
 * [Go best practices, six years in](http://peter.bourgon.org/go-best-practices-2016/)
