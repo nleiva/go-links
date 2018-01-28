@@ -70,6 +70,15 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Methods, Interfaces and Embedded Types in Go](https://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
 * [Exploring Readers and Writers](https://github.com/miku/exploreio)
 
+### Reflection
+* [The Power and Elegance of Reflection](https://github.com/candysmurf/GoReflectionTalk), [Video](https://www.youtube.com/watch?v=lI17OEJCPVw&t=133s)
+
+### Defer
+* [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
+* [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
+* [5 More Gotchas of Defer in Go — Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa)
+* [5 More Gotchas of Defer in Go — Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
+
 ### Concurrency
 * [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
@@ -80,9 +89,6 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Curious Channels](https://dave.cheney.net/tag/golang-3)
 * [Communicating Sequential Processes](http://spinroot.com/courses/summer/Papers/hoare_1978.pdf)
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ)
-
-### Reflection
-* [The Power and Elegance of Reflection](https://github.com/candysmurf/GoReflectionTalk), [Video](https://www.youtube.com/watch?v=lI17OEJCPVw&t=133s)
 
 ### Context
 * [The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw)
