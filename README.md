@@ -108,6 +108,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Protobuf
 * [Go Protobuf Tips](https://jbrandhorst.com/post/go-protobuf-tips/)
 
+### Web
+* [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9)
+
 ### gRPC
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg)
@@ -182,6 +185,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ## IDE
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Go with Visual Studio Code](https://www.youtube.com/watch?v=SwAhE5zgsbQ)
+* [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9)
 * [Font: FiraCode](https://github.com/tonsky/FiraCode)
 * [GoLand](https://www.jetbrains.com/go/)
 
