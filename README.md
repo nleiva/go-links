@@ -58,6 +58,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Nice benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
 * [Go Examples of Common Patterns](https://github.com/jbuberel/go-patterns)
 * [Practical Advice for Go Library Authors](https://youtu.be/5v2fqm_8jYI)
+* [GoDS (Go Data Structures)](https://github.com/emirpasic/gods)
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
 
 ### Interfaces
