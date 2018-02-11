@@ -154,6 +154,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Golangbot](https://golangbot.com/)
 * [GopherVids](http://gophervids.appspot.com/)
 * [Learn Go Programming](https://blog.learngoprogramming.com/)
+* [Applied Go](https://appliedgo.net/)
 
 ## Playlists
 * [GopherCon](https://gophercon.com/)
