@@ -38,17 +38,11 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Writing Go Code 
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [Go Patterns](https://github.com/tmrts/go-patterns)
-* [Organizing Go code](http://talks.golang.org/2014/organizeio.slide#1)
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
-* [Naming](https://talks.golang.org/2014/names.slide#1)
-* [Package names](https://blog.golang.org/package-names)
-* [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns)
-* [Style guideline for Go packages](https://rakyll.org/style-packages/)
-* [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Writing high-performance Go code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Comparison operators in Go](https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
 * [Go best practices, six years in](http://peter.bourgon.org/go-best-practices-2016/)
@@ -60,6 +54,15 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Practical Advice for Go Library Authors](https://youtu.be/5v2fqm_8jYI)
 * [GoDS (Go Data Structures)](https://github.com/emirpasic/gods)
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
+
+#### Package structure
+* [Style guideline for Go packages](https://rakyll.org/style-packages/)
+* [Naming](https://talks.golang.org/2014/names.slide#1)
+* [Package names](https://blog.golang.org/package-names)
+* [Organizing Go code](http://talks.golang.org/2014/organizeio.slide#1)
+* [Writing Go Applications with Reusable Logic](https://npf.io/2016/10/reusable-commands/)
+* [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+* [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
