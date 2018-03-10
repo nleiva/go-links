@@ -159,6 +159,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [GopherVids](http://gophervids.appspot.com/)
 * [Learn Go Programming](https://blog.learngoprogramming.com/)
 * [Applied Go](https://appliedgo.net/)
+* [golangspec](https://medium.com/golangspec)
 
 ## Playlists
 * [GopherCon](https://gophercon.com/)
