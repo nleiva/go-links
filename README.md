@@ -46,12 +46,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Writing high-performance Go code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Comparison operators in Go](https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
 * [Go best practices, six years in](http://peter.bourgon.org/go-best-practices-2016/)
-* [Gophers, please tag your releases](https://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
 * [How to ship production-grade Go](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 * [Idiomatic Go](https://pocketgophers.com/idiomatic-go/)
 * [Nice benefits of named return values](https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687)
 * [Go Examples of Common Patterns](https://github.com/jbuberel/go-patterns)
-* [Practical Advice for Go Library Authors](https://youtu.be/5v2fqm_8jYI)
 * [GoDS (Go Data Structures)](https://github.com/emirpasic/gods)
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
 
@@ -64,6 +62,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 * [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
+* [Practical Advice for Go Library Authors](https://youtu.be/5v2fqm_8jYI)
+* [Gophers, please tag your releases](https://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
 
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
