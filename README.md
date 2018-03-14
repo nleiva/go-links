@@ -63,6 +63,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Writing Go Applications with Reusable Logic](https://npf.io/2016/10/reusable-commands/)
 * [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+* [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
