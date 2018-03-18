@@ -35,6 +35,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Golang and why it matters](https://medium.com/@jamesotoole/golang-and-why-it-matters-1710b3af96f7)
 * [Why Golang is great for network services](http://nikhilism.com/post/2016/why-golang-great-for-network-services/)
 
+#### Why not Go?
+* [Articles complaining that Go isn't good enough](https://github.com/ksimka/go-is-not-good)
+* [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
+
 ### Writing Go Code 
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [Go Patterns](https://github.com/tmrts/go-patterns)
