@@ -171,7 +171,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Applied Go](https://appliedgo.net/)
 * [golangspec](https://medium.com/golangspec)
 
-## Playlists
+## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
   * [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
   * [GopherCon 2016](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
@@ -190,6 +190,13 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [GothamGo 2017](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-)
   * [GothamGo 2016](https://www.youtube.com/playlist?list=PLeGxIOPLk9EKlDXkzKgQLrBhcwWUtUeEk)
   * [GothamGo 2015](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELh9tsPZMzau6CzMjfMzp9-)
+* [GopherCon Russia](https://www.gophercon-russia.ru/)
+  * [GopherCon Russia 2018](https://www.youtube.com/playlist?list=PLJTW0ZQ22rrH8rWZBs7qMonKZxW4osXE2)
+* [GopherCon Singapore](https://2018.gophercon.sg/)
+  * [GopherCon Singapore 2018](https://www.youtube.com/playlist?list=PLq2Nv-Sh8EbbIjQgDzapOFeVfv5bGOoPE)
+  * [GopherCon Singapore 2017](https://www.youtube.com/playlist?list=PLq2Nv-Sh8EbZEjZdPLaQt1qh_ohZFMDj8)
+* [GopherCon Brasil](https://2018.gopherconbr.org/)
+  * [GopherCon Brasil 2016](https://www.youtube.com/playlist?list=PLOpPtg0fjj4g5nB62khFCGAzhYOXuY_0k)
 
 ## Cool Open Source Go projects 
 * [Awesome Go](https://github.com/avelino/awesome-go)
