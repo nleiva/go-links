@@ -10,20 +10,25 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [The Go Playground](https://play.golang.org/)
 
 ## Training
+* [Learn Go](https://learn-golang.com/)
 * [Go Training Class Material](https://github.com/ardanlabs/gotraining) by [ArdanLabs](https://www.ardanlabs.com/)
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
 * [Go by Example](https://gobyexample.com/)
 * [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
-* [Go Wiki](https://github.com/golang/go/wiki)
-* [Go Articles](https://golang.org/doc/#articles)
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
-* [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
-* [Go talks](https://talks.golang.org/)
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
-* [Learning more about Go](https://github.com/golang/go/wiki#learning-more-about-go)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
+
+### More Links
+
+* [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
+* [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
+* [Go Wiki](https://github.com/golang/go/wiki)
+* [Awesome Go](https://github.com/avelino/awesome-go)
+* [Go talks](https://talks.golang.org/)
+* [Go Articles](https://golang.org/doc/#articles)
 
 ### Why Go?
 * [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
