@@ -186,6 +186,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [Golang UK Conference 2017](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9)
   * [Golang UK Conference 2016](https://www.youtube.com/playlist?list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g)
   * [Golang UK Conference 2015](https://www.youtube.com/playlist?list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd)
+* [GopherCon India](https://www.gophercon.in/)
+  * [GopherCon India 2018](https://www.youtube.com/playlist?list=PLhJxE57Cki63cElK2kmt3_vi8j2eIHTqZ)  
+  * [GopherCon India 2017](https://www.youtube.com/playlist?list=PLFjrjdmBd0CoclkJ_JdBET5fzz4u0SELZ)    
+  * [GopherCon India 2016](https://www.youtube.com/playlist?list=PLxFC1MYuNgJT_ynbXGuYAZbSnUnq-6VQA) 
 * [GothamGo](http://gothamgo.com/)
   * [GothamGo 2017](https://www.youtube.com/playlist?list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-)
   * [GothamGo 2016](https://www.youtube.com/playlist?list=PLeGxIOPLk9EKlDXkzKgQLrBhcwWUtUeEk)
@@ -196,7 +200,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [GopherCon Singapore 2018](https://www.youtube.com/playlist?list=PLq2Nv-Sh8EbbIjQgDzapOFeVfv5bGOoPE)
   * [GopherCon Singapore 2017](https://www.youtube.com/playlist?list=PLq2Nv-Sh8EbZEjZdPLaQt1qh_ohZFMDj8)
 * [GopherCon Brasil](https://2018.gopherconbr.org/)
-  * [GopherCon Brasil 2016](https://www.youtube.com/playlist?list=PLOpPtg0fjj4g5nB62khFCGAzhYOXuY_0k)
+  * [GopherCon Brasil 2016](https://www.youtube.com/playlist?list=PLOpPtg0fjj4g5nB62khFCGAzhYOXuY_0k)   
 
 ## Cool Open Source Go projects 
 * [Awesome Go](https://github.com/avelino/awesome-go)
