@@ -46,7 +46,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ### Writing Go Code 
 * [How to Write Go Code](https://golang.org/doc/code.html)
-* [Go Patterns](https://github.com/tmrts/go-patterns)
+* [Go Patterns](http://tmrts.com/go-patterns/) 
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
