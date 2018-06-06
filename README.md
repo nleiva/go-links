@@ -25,6 +25,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 * [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
+* [Go Training Important Reading](https://github.com/ardanlabs/gotraining/blob/master/reading/README.md)
 * [Go Wiki](https://github.com/golang/go/wiki)
 * [Awesome Go](https://github.com/avelino/awesome-go)
 * [Go talks](https://talks.golang.org/)
