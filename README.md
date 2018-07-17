@@ -1,9 +1,14 @@
-# Go links :ok_hand:
+<p align="center">
+  <img height="175" title="Go Learn" src="https://github.com/ashleymcnamara/gophers/blob/master/GOPHER_LEARN.png"><br>
+  <b>Go Links</b><br>
+</p>
+
+---
 
 Everybody has their own list, I get it!, I guess this is just mine or it was initially (I do accept PR's).
 
 ## Priceless
-* [Gopherize Me](https://gopherize.me)
+* [Gopherize Me](https://gopherize.me) :ok_hand:
 
 ## Run Examples
 * [The Go Play Space](https://goplay.space/)
@@ -17,6 +22,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go by Example](https://gobyexample.com/)
 * [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
+* [GoLang Training](https://github.com/smileisak/go-training)
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
