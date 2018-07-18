@@ -159,6 +159,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Reddit](https://www.reddit.com/r/golang/)
 * [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts)
 
+## Tools 
+* [Awesome Go Linters](https://github.com/golangci/awesome-go-linters)
+
 ## Blogs/Channels
 * [Go Walkthrough](https://medium.com/go-walkthrough)
 * [Dave Cheney](https://dave.cheney.net/)
