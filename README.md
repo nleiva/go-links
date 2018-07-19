@@ -26,6 +26,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
+* [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
 
 ### More Links
 
