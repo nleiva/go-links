@@ -20,6 +20,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
 * [Go by Example](https://gobyexample.com/)
+* [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
 * [GoLang Training](https://github.com/smileisak/go-training)
