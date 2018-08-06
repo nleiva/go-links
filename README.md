@@ -76,6 +76,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Naming](https://talks.golang.org/2014/names.slide#1)
 * [Package names](https://blog.golang.org/package-names)
 * [Organizing Go code](http://talks.golang.org/2014/organizeio.slide#1)
+* [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 * [Writing Go Applications with Reusable Logic](https://npf.io/2016/10/reusable-commands/)
 * [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 * [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
