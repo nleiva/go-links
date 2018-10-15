@@ -20,6 +20,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
 * [Go by Example](https://gobyexample.com/)
+* [A Tour of Go](https://tour.golang.org/welcome/1)
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
@@ -29,6 +30,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go Proverbs](https://go-proverbs.github.io/)
 * [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
 * [A quick reference for the go language](https://github.com/bcomnes/goref)
+* [Go vs. Python](http://govspy.peterbe.com/)
 
 ### More Links
 
@@ -188,9 +190,14 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
+  * [GopherCon 2018](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM)
+    * [GopherCon Lightning Talks 2018](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdMEZScpaoRX-vyt6pRUvfM)
   * [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
+    * [GopherCon Lightning Talks 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU)
   * [GopherCon 2016](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
+    * [GopherCon Lightning Talks 2016](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfdNd2SHwX2eMyFWKW_zfAq)
   * [GopherCon 2015](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm)
+    * [GopherCon Lightning Talks 2015](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBeHqlHM8DmvS8axgbrpvF9b)
   * [GopherCon 2014](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBcD_BiJiDJUcyrb2w3bTulF)
 * [dotConferences](https://www.dotconferences.com/)
   * [dotGo 2017](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG7acNjsU5YMGl5MMK5gl2vn)
