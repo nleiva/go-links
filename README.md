@@ -87,6 +87,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Aspects of a good Go library](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 * [Practical Advice for Go Library Authors](https://youtu.be/5v2fqm_8jYI)
 * [Gophers, please tag your releases](https://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
+* [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
