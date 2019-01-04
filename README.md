@@ -18,6 +18,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Learn Go](https://learn-golang.com/)
 * [Go Training Class Material](https://github.com/ardanlabs/gotraining) by [ArdanLabs](https://www.ardanlabs.com/)
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
+* [Go Language Basics](http://www.golangdevops.com/2018/12/28/go-language-basics/)
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
 * [Go by Example](https://gobyexample.com/)
 * [A Tour of Go](https://tour.golang.org/welcome/1)
