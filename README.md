@@ -125,6 +125,13 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ### Context
 * [The Context Package](https://www.youtube.com/watch?v=LSzR0VEraWw)
+* [Implementing the context package](https://www.youtube.com/watch?v=8M90t0KvEDY)
+* [Some context on context](https://www.youtube.com/watch?v=JKJnGWRF30Q)
+* [How to correctly use context.Context in Go 1.7](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39)
+* [Context - Go Training](https://github.com/ardanlabs/gotraining/tree/master/topics/go/packages/context)
+* [Context propagation over HTTP in Go](https://medium.com/@rakyll/context-propagation-over-http-in-go-d4540996e9b0)
+* [Using contexts to avoid leaking goroutines](https://rakyll.org/leakingctx/)
+* [Context use and misuse](https://peter.bourgon.org/go-for-industrial-programming/#context-use-and-misuse)
 * [Context and Cancellation of goroutines](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
 
 ### Errors
