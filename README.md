@@ -27,6 +27,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
 * [GoLang Training](https://github.com/smileisak/go-training)
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
+* [An Introduction to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
+  * [Day 1](http://cds.cern.ch/record/2658368)
+  * [Day 2](http://cds.cern.ch/record/2659409)
+  * [Day 3](http://cds.cern.ch/record/2659408)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
 * [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
@@ -55,6 +59,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Why Golang is great for network services](http://nikhilism.com/post/2016/why-golang-great-for-network-services/)
 * [The Robustness of Go](https://speakerdeck.com/campoy/the-robustness-of-go), [recording](https://www.youtube.com/watch?v=40d26ZGfhR8)
 * [From X To Go](https://github.com/golang/go/wiki/FromXToGo)
+* [One Program Written in Python, Go, and Rust](https://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/)
+* [A comparison of three programming languages for a full-fledged next-generation sequencing tool](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-019-2903-5)
 
 #### Why not Go?
 * [Articles complaining that Go isn't good enough](https://github.com/ksimka/go-is-not-good)
@@ -101,6 +107,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [understanding the interface](https://speakerd.s3.amazonaws.com/presentations/72338d4499864bf18ee566fab22e01ec/pdf.pdf)
 * [Methods, Interfaces and Embedded Types in Go](https://www.goinggo.net/2014/05/methods-interfaces-and-embedded-types.html)
 * [Exploring Readers and Writers](https://github.com/miku/exploreio)
+* [How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 
 ### Reflection
 * [The Power and Elegance of Reflection](https://github.com/candysmurf/GoReflectionTalk), [Video](https://www.youtube.com/watch?v=lI17OEJCPVw&t=133s)
