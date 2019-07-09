@@ -74,6 +74,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+* [Workshop: Practical Go - GoSG Meetup](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
 * [Go-Design-Patterns](https://github.com/PacktPublishing/Go-Design-Patterns)
 * [Writing high-performance Go code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Comparison operators in Go](https://medium.com/golangspec/comparison-operators-in-go-910d9d788ec0)
