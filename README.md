@@ -83,6 +83,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go Examples of Common Patterns](https://github.com/jbuberel/go-patterns)
 * [GoDS (Go Data Structures)](https://github.com/emirpasic/gods)
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
+* [Go app template build environment](https://github.com/thockin/go-build-template)
 
 #### Package structure
 * [Style guideline for Go packages](https://rakyll.org/style-packages/)
