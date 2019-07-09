@@ -31,6 +31,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [Day 1](http://cds.cern.ch/record/2658368)
   * [Day 2](http://cds.cern.ch/record/2659409)
   * [Day 3](http://cds.cern.ch/record/2659408)
+* [Algorithms to Go](https://yourbasic.org/)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
 * [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
