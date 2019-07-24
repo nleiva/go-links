@@ -87,6 +87,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
 * [Go app template build environment](https://github.com/thockin/go-build-template)
 
+### Interpreters
+
+* [yaegi](https://github.com/containous/yaegi)
+
 #### Package structure
 * [Style guideline for Go packages](https://rakyll.org/style-packages/)
 * [Naming](https://talks.golang.org/2014/names.slide#1)
