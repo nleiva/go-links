@@ -170,7 +170,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg)
 * [grpc: From Tutorial to Production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
 * [gRPC Go: Beyond the basics](https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/)
-* [Practical guide to securing gRPC connections with Go and TLS](https://medium.com/@nleiva/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-1-f63058e9d6d1)
+* [Practical guide to securing gRPC connections with Go and TLS - Part 1](https://itnext.io/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-1-f63058e9d6d1?source=friends_link&sk=7d9921af5742be00506bb38e50be1a66)
+* [Practical guide to securing gRPC connections with Go and TLS - Part2](https://medium.com/@nleiva/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-2-994ef93b8ea9?sk=de526794eb30887988c9c78cf077fdf6)
 
 ### Dockerfiles
 * [Docker official Go repository](https://hub.docker.com/_/golang/)
