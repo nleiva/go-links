@@ -90,6 +90,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Interpreters
 
 * [yaegi](https://github.com/containous/yaegi)
+* [gophernotes](https://github.com/gopherdata/gophernotes)
+* [wagon](https://github.com/go-interpreter/wagon)
 
 #### Package structure
 * [Style guideline for Go packages](https://rakyll.org/style-packages/)
