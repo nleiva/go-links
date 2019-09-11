@@ -107,6 +107,13 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Gophers, please tag your releases](https://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 
+### Modules
+* [Package Management With Go Modules: The Pragmatic Guide](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
+* [Using Go Modules](https://blog.golang.org/using-go-modules)
+* [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
+* [Go Modules in 2019](https://blog.golang.org/modules2019)
+* [Taking Go modules for a spin](https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin)
+
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
 * [Important interfaces that every Go developer should know](https://spino.tech/blog/important-go-interfaces/)
