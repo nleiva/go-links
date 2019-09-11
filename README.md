@@ -158,6 +158,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ### Testing
 * [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
+* [GitHub Actions for Go](https://github.com/mvdan/github-actions-golang)
 
 ### Encoding
 * [JSON-to-Go](https://mholt.github.io/json-to-go/)
