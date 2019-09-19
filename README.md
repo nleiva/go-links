@@ -113,6 +113,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
 * [Go Modules in 2019](https://blog.golang.org/modules2019)
 * [Taking Go modules for a spin](https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin)
+* [Go Modules and Major Versions](https://codeengineered.com/blog/2019/go-mod-major-versions/)
 
 ### Interfaces
 * [Introduction to Go, part 13: Interfaces](https://www.youtube.com/watch?v=tUO0cnSaSy4)
