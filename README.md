@@ -186,6 +186,15 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Security
 * [Rob'n Go security pearls: Cross Site Scripting (XSS)](https://blogtitle.github.io/robn-go-security-pearls-cross-site-scripting-xss/)
 
+### Networking
+* [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM)
+* [Networking and Go: An Engineer's Journey](https://www.youtube.com/watch?v=XqKvgzXCoXc)
+* [GoPacket](https://github.com/google/gopacket)
+* [Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go)
+* [tflow2: netflow](https://github.com/bio-routing/tflow2)
+* [Ethr: Network Performance Measurement](https://github.com/microsoft/ethr)
+* [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
+
 ### gRPC
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg)
