@@ -232,6 +232,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Learn Go Programming](https://blog.learngoprogramming.com/)
 * [Applied Go](https://appliedgo.net/)
 * [golangspec](https://medium.com/golangspec)
+* [Phil Pearl](https://medium.com/@philpearl)
 
 ## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
