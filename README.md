@@ -167,6 +167,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Stack traces and the errors package](https://dave.cheney.net/2016/06/12/stack-traces-and-the-errors-package)
 * [Don’t just check errors, handle them gracefully](https://dave.cheney.net/2016/04/27/dont-just-check-errors-handle-them-gracefully), [Video](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 * [Go Lift](https://www.youtube.com/watch?v=1B71SL6Y0kA)
+* [Programming with errors](https://peter.bourgon.org/blog/2019/09/11/programming-with-errors.html)
 
 ### Testing
 * [Interfaces and Composition for Effective Unit Testing in Golang](https://nathanleclaire.com/blog/2015/10/10/interfaces-and-composition-for-effective-unit-testing-in-golang/)
