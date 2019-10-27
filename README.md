@@ -109,11 +109,13 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 
 ### Modules
-* [Package Management With Go Modules: The Pragmatic Guide](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
 * [Using Go Modules](https://blog.golang.org/using-go-modules)
 * [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
 * [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
 * [Go Modules in 2019](https://blog.golang.org/modules2019)
+* [Go 1.11 Modules](Ghttps://github.com/golang/go/wiki/Modules)
+* [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
+* [Package Management With Go Modules: The Pragmatic Guide](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
 * [Taking Go modules for a spin](https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin)
 * [Go Modules and Major Versions](https://codeengineered.com/blog/2019/go-mod-major-versions/)
 
