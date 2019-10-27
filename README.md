@@ -182,6 +182,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Web
 * [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9)
 
+### Security
+* [Rob'n Go security pearls: Cross Site Scripting (XSS)](https://blogtitle.github.io/robn-go-security-pearls-cross-site-scripting-xss/)
+
 ### gRPC
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg)
@@ -236,6 +239,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
+  * [GopherCon 2019](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdDyspRTNBIKES1Y-P__59)
+    * [GopherCon Lightning Talks 2019](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBedT1MDWF4xAD39vAad0DBT)
   * [GopherCon 2018](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM)
     * [GopherCon Lightning Talks 2018](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdMEZScpaoRX-vyt6pRUvfM)
   * [GopherCon 2017](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9)
