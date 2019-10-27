@@ -28,6 +28,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [The Way to Go](https://sites.google.com/site/thewaytogo2012/)
 * [GoLang Training](https://github.com/smileisak/go-training)
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
+* [Practical Go - GoSG Meetup](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
 * [An Introduction to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
   * [Day 1](http://cds.cern.ch/record/2658368)
   * [Day 2](http://cds.cern.ch/record/2659409)
