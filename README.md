@@ -113,7 +113,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
 * [Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
 * [Go Modules in 2019](https://blog.golang.org/modules2019)
-* [Go 1.11 Modules](Ghttps://github.com/golang/go/wiki/Modules)
+* [Go 1.11 Modules](https://github.com/golang/go/wiki/Modules)
 * [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html)
 * [Package Management With Go Modules: The Pragmatic Guide](https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31)
 * [Taking Go modules for a spin](https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin)
