@@ -316,6 +316,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Gophers under CC0 license](https://github.com/egonelbre/gophers)
 * [Gopher Artwork](https://github.com/ashleymcnamara/gophers)
 * [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack)
+* [Gophers Font](http://2ttf.com/HCQ3PvcaQ4U)
 
 ## Books
 * [Go Bootcamp](http://www.golangbootcamp.com/book)
