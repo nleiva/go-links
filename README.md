@@ -256,6 +256,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Applied Go](https://appliedgo.net/)
 * [golangspec](https://medium.com/golangspec)
 * [Phil Pearl](https://medium.com/@philpearl)
+* [Alex Edwards](https://www.alexedwards.net/blog/)
 
 ## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
