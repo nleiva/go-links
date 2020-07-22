@@ -88,6 +88,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [GoDS (Go Data Structures)](https://github.com/emirpasic/gods)
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
 * [Go app template build environment](https://github.com/thockin/go-build-template)
+* [Collection of style guides for Go](https://github.com/dgryski/awesome-go-style)
 
 ### Interpreters
 
