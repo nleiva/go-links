@@ -16,7 +16,6 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
 
 ## Training
-* [Learn Go](https://learn-golang.com/)
 * [Go Training Class Material](https://github.com/ardanlabs/gotraining) by [ArdanLabs](https://www.ardanlabs.com/)
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Go Language Basics](http://www.golangdevops.com/2018/12/28/go-language-basics/)
