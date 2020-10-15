@@ -260,7 +260,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
-  * [GopherCon 2019](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdDyspRTNBIKES1Y-P__59)
+  * [GopherCon 2019](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdDyspRTNBIKES1Y-P__59_)
     * [GopherCon Lightning Talks 2019](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBedT1MDWF4xAD39vAad0DBT)
   * [GopherCon 2018](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM)
     * [GopherCon Lightning Talks 2018](https://www.youtube.com/playlist?list=PL2ntRZ1ySWBdMEZScpaoRX-vyt6pRUvfM)
