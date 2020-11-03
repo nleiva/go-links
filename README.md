@@ -147,6 +147,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg)
 * [Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
 * ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA)
+* [Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
 * [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
 
 ### Channels
