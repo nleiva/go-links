@@ -143,7 +143,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [5 More Gotchas of Defer in Go — Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
 
 ### Concurrency
-* [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso)
+* [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+* [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg)
 * [Simulating a real-world system in Go](https://www.youtube.com/watch?v=_YK0viplIl4)
 * ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA)
 * [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
