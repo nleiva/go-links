@@ -16,7 +16,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
 
 ## Training
-* [Go - Getting Started](https://learn.go.dev/): Getting Started
+* [Go - Getting Started](https://learn.go.dev/)
 * [Play with Go](https://play-with-go.dev/): Hands-on, interactive guides for programming in Go.
 * [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
 * [Go Language Basics](http://www.golangdevops.com/2018/12/28/go-language-basics/), [PDF](https://github.com/johnsiilver/go_basics/blob/master/go_basics.pdf)
