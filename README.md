@@ -24,6 +24,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [A Tour of Go](https://tour.golang.org/welcome/1)
 * [GoLang Training](https://github.com/smileisak/go-training)
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+* [Go language course](https://github.com/RedHatOfficial/GoCourse)
 * [Go vs. Python](http://govspy.peterbe.com/)
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
