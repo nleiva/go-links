@@ -208,6 +208,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Ethr](https://github.com/microsoft/ethr): Network Performance Measurement
 * [Arachne](https://github.com/uber/arachne): A packet loss detection system and an underperforming path detection system.
 * [tcpterm](https://github.com/sachaos/tcpterm): visualize packets in TUI
+* [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
 
 ### gRPC
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
