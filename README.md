@@ -199,16 +199,27 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Rob'n Go security pearls: Cross Site Scripting (XSS)](https://blogtitle.github.io/robn-go-security-pearls-cross-site-scripting-xss/)
 
 ### Networking
+* [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
+* [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and Sflow analyzer.
+* [Ethr](https://github.com/microsoft/ethr): Cross platform network performance measurement tool .
+* [Arachne](https://github.com/uber/arachne): A packet loss detection system and an underperforming path detection system.
+* [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
+* [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
+* [gornir](https://github.com/nornir-automation/gornir): Pluggable framework with inventory management to help operate collections of devices. It's similar to nornir but in Go.
+* [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
+* [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
+* [gNxI](https://github.com/google/gnxi): A collection of tools for Network Management that use the gNMI and gNOI protocols.
+* [gNMIc](https://github.com/karimra/gnmic): gNMI CLI client.
+* [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
+* [cidranger](https://github.com/yl2chen/cidranger): Fast IP to CIDR lookup for Go.
+* [GoBGP](https://github.com/osrg/gobgp): Open source BGP implementation designed from scratch for modern environment.
+* [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
+* [Acigo](https://github.com/udhos/acigo): Go package for interacting with Cisco ACI using API calls.
+* [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
+* [Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go)
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM)
 * [Networking and Go: An Engineer's Journey](https://www.youtube.com/watch?v=XqKvgzXCoXc)
-* [GoPacket](https://github.com/google/gopacket)
-* [Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go)
-* [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf)
-* [tflow2](https://github.com/bio-routing/tflow2): Netflow
-* [Ethr](https://github.com/microsoft/ethr): Network Performance Measurement
-* [Arachne](https://github.com/uber/arachne): A packet loss detection system and an underperforming path detection system.
-* [tcpterm](https://github.com/sachaos/tcpterm): visualize packets in TUI
-* [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
+* [gRPC and GPB for Networking Engineers](https://github.com/nleiva/gmessaging): GPB and gRPC testing.
 
 ### gRPC
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
