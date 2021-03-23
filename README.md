@@ -212,6 +212,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
 * [cidranger](https://github.com/yl2chen/cidranger): Fast IP to CIDR lookup for Go.
 * [GoBGP](https://github.com/osrg/gobgp): Open source BGP implementation designed from scratch for modern environment.
+* [ygot](https://github.com/openconfig/ygot): YANG Go Tools.
+* [ydk-go](https://github.com/CiscoDevNet/ydk-go): YANG Development Kit (Go).
 * [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
 * [Acigo](https://github.com/udhos/acigo): Go package for interacting with Cisco ACI using API calls.
 * [merakictl](https://github.com/ddexterpark/merakictl): Command line tool for interfacing with the Meraki Dashboard API.
