@@ -349,3 +349,4 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Essential Go ](https://essential-go.programming-books.io/)
 * [The Go Programming Language](http://www.gopl.io/)
 * [Go in Action](https://www.manning.com/books/go-in-action)
+* [The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit?usp=sharing)
