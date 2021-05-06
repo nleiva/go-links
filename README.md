@@ -205,6 +205,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
 * [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
 * [Gornir](https://github.com/nornir-automation/gornir): Pluggable framework with inventory management to help operate collections of devices. It's similar to Nornir but in Go.
+* [netrasp](https://github.com/networklore/netrasp): Package that communicates to network devices over SSH.
 * [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
 * [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
 * [gNxI](https://github.com/google/gnxi): A collection of tools for Network Management that use the gNMI and gNOI protocols.
