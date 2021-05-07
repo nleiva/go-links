@@ -199,26 +199,29 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Rob'n Go security pearls: Cross Site Scripting (XSS)](https://blogtitle.github.io/robn-go-security-pearls-cross-site-scripting-xss/)
 
 ### Networking
-* [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and SFlow analyzer.
 * [Ethr](https://github.com/microsoft/ethr): Cross platform network performance measurement tool.
 * [Arachne](https://github.com/uber/arachne): A packet loss detection system and an underperforming path detection system.
-* [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
 * [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
+* [Containerlab](https://github.com/srl-labs/containerlab): Provides a CLI for orchestrating and managing container-based networking labs.
 * [Gornir](https://github.com/nornir-automation/gornir): Pluggable framework with inventory management to help operate collections of devices. It's similar to Nornir but in Go.
+* [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
 * [netrasp](https://github.com/networklore/netrasp): Package that communicates to network devices over SSH.
 * [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
+* [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and SFlow analyzer.
 * [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
+* [Telegraf Cisco MDT plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/cisco_telemetry_mdt): Input plugin that consumes telemetry data from Cisco IOS XR, IOS XE and NX-OS platforms.
 * [gNxI](https://github.com/google/gnxi): A collection of tools for Network Management that use the gNMI and gNOI protocols.
 * [gNMIc](https://github.com/karimra/gnmic): gNMI CLI client.
+* [gNMI Gateway](https://github.com/openconfig/gnmi-gateway): Distributed and highly available service for connecting to multiple gNMI targets.
 * [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
 * [cidranger](https://github.com/yl2chen/cidranger): Fast IP to CIDR lookup for Go.
 * [GoBGP](https://github.com/osrg/gobgp): Open source BGP implementation designed from scratch for modern environment.
 * [ygot](https://github.com/openconfig/ygot): YANG Go Tools.
 * [ydk-go](https://github.com/CiscoDevNet/ydk-go): YANG Development Kit (Go).
-* [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
 * [Acigo](https://github.com/udhos/acigo): Go package for interacting with Cisco ACI using API calls.
 * [merakictl](https://github.com/ddexterpark/merakictl): Command line tool for interfacing with the Meraki Dashboard API.
 * [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
+* [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
 * [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf): Bachelor’s Thesis.
 * [Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go): A very detailed walkthrough of implementing a networking protocol (NDP in IPv6) in Go, with many, many code snippets.
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM): Gophercon presentation.
