@@ -206,6 +206,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Gornir](https://github.com/nornir-automation/gornir): Pluggable framework with inventory management to help operate collections of devices. It's similar to Nornir but in Go.
 * [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
 * [netrasp](https://github.com/networklore/netrasp): Package that communicates to network devices over SSH.
+* [scrapligo](https://github.com/scrapli/scrapligo): Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
 * [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
 * [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and SFlow analyzer.
 * [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
