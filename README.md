@@ -207,6 +207,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
 * [netrasp](https://github.com/networklore/netrasp): Package that communicates to network devices over SSH.
 * [scrapligo](https://github.com/scrapli/scrapligo): Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
+* [cisshgo](https://github.com/tbotnz/cisshgo): Simple, small, fast, concurrent SSH server to emulate network equipment (i.e. Cisco IOS) for testing purposes.
 * [go-netconf](https://github.com/Juniper/go-netconf): Simple NETCONF client based on RFC6241 and RFC6242.
 * [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
 * [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and SFlow analyzer.
