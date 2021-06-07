@@ -199,38 +199,55 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Rob'n Go security pearls: Cross Site Scripting (XSS)](https://blogtitle.github.io/robn-go-security-pearls-cross-site-scripting-xss/)
 
 ### Networking
-* [Ethr](https://github.com/microsoft/ethr): Cross platform network performance measurement tool.
-* [Arachne](https://github.com/uber/arachne): A packet loss detection system and an underperforming path detection system.
-* [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
-* [Containerlab](https://github.com/srl-labs/containerlab): Provides a CLI for orchestrating and managing container-based networking labs.
 * [Gornir](https://github.com/nornir-automation/gornir): Pluggable framework with inventory management to help operate collections of devices. It's similar to Nornir but in Go.
+* [cidranger](https://github.com/yl2chen/cidranger): Fast IP to CIDR lookup for Go.
+
+#### Network Device interaction
 * [vSSH](https://github.com/yahoo/vssh): Library to handle tens of thousands SSH connections and execute the command(s) with higher-level API for building network device / server automation.
 * [netrasp](https://github.com/networklore/netrasp): Package that communicates to network devices over SSH.
 * [scrapligo](https://github.com/scrapli/scrapligo): Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
-* [cisshgo](https://github.com/tbotnz/cisshgo): Simple, small, fast, concurrent SSH server to emulate network equipment (i.e. Cisco IOS) for testing purposes.
+* [Commando](https://github.com/hellt/cmdo): Tiny tool that enables users to collect command outputs from a single or a multiple networking devices defined in an inventory file.
 * [go-netconf](https://github.com/Juniper/go-netconf): Simple NETCONF client based on RFC6241 and RFC6242.
+
+#### Network simulation/emulation
+* [Containerlab](https://github.com/srl-labs/containerlab): Provides a CLI for orchestrating and managing container-based networking labs.
+* [cisshgo](https://github.com/tbotnz/cisshgo): Simple, small, fast, concurrent SSH server to emulate network equipment (i.e. Cisco IOS) for testing purposes.
+
+#### Network Monitoring
+* [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
 * [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
 * [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and SFlow analyzer.
-* [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
 * [Telegraf Cisco MDT plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/cisco_telemetry_mdt): Input plugin that consumes telemetry data from Cisco IOS XR, IOS XE and NX-OS platforms.
+* [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
+* [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
+* [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
+
+#### Network Performance
+* [Ethr](https://github.com/microsoft/ethr): Cross platform network performance measurement tool.
+* [Arachne](https://github.com/uber/arachne): A packet loss detection system and an underperforming path detection system.
+
+#### Network YANG
+* [ygot](https://github.com/openconfig/ygot): YANG Go Tools.
+* [ydk-go](https://github.com/CiscoDevNet/ydk-go): YANG Development Kit (Go).
+
+#### Network gRPC
+* [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
 * [gNxI](https://github.com/google/gnxi): A collection of tools for Network Management that use the gNMI and gNOI protocols.
 * [gNMIc](https://github.com/karimra/gnmic): gNMI CLI client.
 * [gNMI Gateway](https://github.com/openconfig/gnmi-gateway): Distributed and highly available service for connecting to multiple gNMI targets.
-* [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
-* [cidranger](https://github.com/yl2chen/cidranger): Fast IP to CIDR lookup for Go.
+
+#### Network Routing protocols
 * [GoBGP](https://github.com/osrg/gobgp): Open source BGP implementation designed from scratch for modern environment.
-* [ygot](https://github.com/openconfig/ygot): YANG Go Tools.
-* [ydk-go](https://github.com/CiscoDevNet/ydk-go): YANG Development Kit (Go).
-* [Acigo](https://github.com/udhos/acigo): Go package for interacting with Cisco ACI using API calls.
-* [merakictl](https://github.com/ddexterpark/merakictl): Command line tool for interfacing with the Meraki Dashboard API.
-* [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
-* [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
 
 #### Network Security
 * [bettercap](https://github.com/bettercap/bettercap): Powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks.
 * [Furious IP/Port Scanner](https://github.com/liamg/furious): Fast, lightweight, portable network scanner.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim): Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
 * [NETwork CAPture](https://github.com/dreadl0ck/netcap): The Netcap framework efficiently converts a stream of network packets into platform neutral type-safe structured audit records that represent specific protocols or custom abstractions.
+
+#### Network vendor libraries
+* [Acigo](https://github.com/udhos/acigo): Go package for interacting with Cisco ACI using API calls.
+* [merakictl](https://github.com/ddexterpark/merakictl): Command line tool for interfacing with the Meraki Dashboard API.
 
 #### Network talks/guides/sessions
 * [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf): Bachelor’s Thesis.
