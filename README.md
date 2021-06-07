@@ -225,6 +225,14 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [merakictl](https://github.com/ddexterpark/merakictl): Command line tool for interfacing with the Meraki Dashboard API.
 * [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
 * [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
+
+#### Network Security
+* [bettercap](https://github.com/bettercap/bettercap): Powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks.
+* [Furious IP/Port Scanner](https://github.com/liamg/furious): Fast, lightweight, portable network scanner.
+* [Network Flight Simulator](https://github.com/alphasoc/flightsim): Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
+* [NETwork CAPture](https://github.com/dreadl0ck/netcap): The Netcap framework efficiently converts a stream of network packets into platform neutral type-safe structured audit records that represent specific protocols or custom abstractions.
+
+#### Network talks/guides/sessions
 * [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf): Bachelor’s Thesis.
 * [Implementing a Network Protocol in Go](https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go): A very detailed walkthrough of implementing a networking protocol (NDP in IPv6) in Go, with many, many code snippets.
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM): Gophercon presentation.
