@@ -247,7 +247,11 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 #### Network vendor libraries
 * [Acigo](https://github.com/udhos/acigo): Go package for interacting with Cisco ACI using API calls.
+* [aci-go-client](https://github.com/ciscoecosystem/aci-go-client):  golang client SDK to interact with CISCO APIC using REST API calls. This SDK is used by terraform-provider-aci.
 * [merakictl](https://github.com/ddexterpark/merakictl): Command line tool for interfacing with the Meraki Dashboard API.
+* [Arista Go eAPI Library](https://github.com/aristanetworks/goeapi):  Native Go implementation for programming Arista EOS network devices using Go.
+* [Arista Go library](https://github.com/aristanetworks/goarista).
+* [go-junos](https://github.com/scottdware/go-junos): A Go package that interacts with Junos devices, as well as Junos Space.
 
 #### Network talks/guides/sessions
 * [Writing Network Drivers in Go](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-go.pdf): Bachelor’s Thesis.
