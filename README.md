@@ -233,7 +233,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 #### Network gRPC
 * [gRPC library for Cisco IOS XR](https://github.com/nleiva/xrgrpc): Minimalistic library to interact with IOS XR devices using the gRPC framework.
 * [gNxI](https://github.com/google/gnxi): A collection of tools for Network Management that use the gNMI and gNOI protocols.
-* [gNMIc](https://github.com/karimra/gnmic): gNMI CLI client.
+* [gNMIc](https://github.com/karimra/gnmic): gNMI CLI client that provides full support for Capabilities, Get, Set and Subscribe RPCs with collector capabilities.
+* [gNOIc](https://github.com/karimra/gnoic): gNOI CLI client that provides support for gNOI Certificate Managment, File and System Services.
 * [gNMI Gateway](https://github.com/openconfig/gnmi-gateway): Distributed and highly available service for connecting to multiple gNMI targets.
 
 #### Network Routing protocols
