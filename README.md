@@ -91,6 +91,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [go-algorithms](https://github.com/0xAX/go-algorithms)
 * [Go app template build environment](https://github.com/thockin/go-build-template)
 * [Collection of style guides for Go](https://github.com/dgryski/awesome-go-style)
+* [Clean Go Code](https://dev.to/gopher/clean-go-code-53hn)
 
 ### Interpreters
 
