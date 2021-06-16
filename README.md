@@ -10,6 +10,11 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ## Priceless
 * [Gopherize Me](https://gopherize.me) :ok_hand:
 
+## History
+* [Go Origins](https://golang.org/doc/faq#Origins)
+* [Go: Ten years and climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
+* [Go: A Documentary](https://github.com/golang-design/history#origin)
+
 ## Run Examples
 * [The Go Play Space](https://goplay.space/)
 * [The Go Playground](https://play.golang.org/)
