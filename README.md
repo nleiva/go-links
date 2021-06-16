@@ -137,6 +137,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Exploring Readers and Writers](https://github.com/miku/exploreio)
 * [How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 
+### Go I/O model
+* [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185)
+* [Golang IO Cookbook](https://github.com/jesseduffield/notes/wiki/Golang-IO-Cookbook)
+
 ### Reflection
 * [The Power and Elegance of Reflection](https://github.com/candysmurf/GoReflectionTalk), [Video](https://www.youtube.com/watch?v=lI17OEJCPVw&t=133s)
 
