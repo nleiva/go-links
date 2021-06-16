@@ -392,6 +392,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Gophers Font](http://2ttf.com/HCQ3PvcaQ4U)
 
 ## Books
+* [Awesome Go Books](https://github.com/dariubs/GoBooks)
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 * [The Little Go Book](https://openmymind.net/The-Little-Go-Book/)
 * [Go Bootcamp](http://www.golangbootcamp.com/book)
