@@ -49,7 +49,6 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
 
 ### More Links
-
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 * [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
 * [Go Training Important Reading](https://github.com/ardanlabs/gotraining/tree/master/reading)
@@ -97,9 +96,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go app template build environment](https://github.com/thockin/go-build-template)
 * [Collection of style guides for Go](https://github.com/dgryski/awesome-go-style)
 * [Clean Go Code](https://dev.to/gopher/clean-go-code-53hn)
+* [Go Code Search](https://cs.opensource.google/go)
 
 ### Interpreters
-
 * [yaegi](https://github.com/containous/yaegi)
 * [gophernotes](https://github.com/gopherdata/gophernotes)
 * [wagon](https://github.com/go-interpreter/wagon)
@@ -327,6 +326,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [golangspec](https://medium.com/golangspec)
 * [Phil Pearl](https://medium.com/@philpearl)
 * [Alex Edwards](https://www.alexedwards.net/blog/)
+* [Bitfield Consulting](https://www.youtube.com/c/BitfieldConsulting)
 
 ## Conferences (video recordings)
 * [GopherCon](https://gophercon.com/)
