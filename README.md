@@ -162,6 +162,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA)
 * [Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
 * [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
+* [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
+* [Concurrent API Patterns in Go](https://marksalpeter.com/concurrent-api-patterns-in-go-52fcb5a9c681)
 
 ### Channels
 * [Understanding Channels](https://speakerdeck.com/kavya719/understanding-channels), [Video](https://www.youtube.com/watch?v=KBZlN0izeiY)
