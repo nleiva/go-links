@@ -48,6 +48,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [A quick reference for the go language](https://github.com/bcomnes/goref)
 * [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
 * [Go cheatsheet](https://devhints.io/go)
+* [Go Collective](https://stackoverflow.com/collectives/go)
 
 ### More Links
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
