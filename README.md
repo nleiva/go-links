@@ -231,7 +231,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [thola](https://github.com/inexio/thola): A tool for monitoring and provisioning network devices written in Go.
 * [GoSNMP](https://github.com/gosnmp/gosnmp): SNMP client.
 * [tflow2](https://github.com/bio-routing/tflow2): In memory NETFLOW version 9, IPFIX and SFlow analyzer.
-* [GoFlow2](https://github.com/netsampler/goflow2):  NetFlow/IPFIX/sFlow collector in Go.
+* [GoFlow](https://github.com/cloudflare/goflow): Cloudflare's NetFlow/IPFIX/sFlow collector in Go.
+* [GoFlow2](https://github.com/netsampler/goflow2):  Fork of Cloudflare's GoFlow.
 * [Telegraf Cisco MDT plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/cisco_telemetry_mdt): Input plugin that consumes telemetry data from Cisco IOS XR, IOS XE and NX-OS platforms.
 * [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
 * [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
