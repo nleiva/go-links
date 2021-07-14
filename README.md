@@ -237,6 +237,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Panoptes Streaming](https://github.com/yahoo/panoptes-stream): Cloud native distributed streaming network telemetry.
 * [GoPacket](https://github.com/google/gopacket): Packet decoding capabilities for Go.
 * [tcpterm](https://github.com/sachaos/tcpterm): Visualize packets in TUI.
+* [cloud-bandwidth](https://github.com/nerdalert/cloud-bandwidth): Measure bandwidth to distributed endpoints across networks and clouds.
 
 #### Network Performance
 * [Ethr](https://github.com/microsoft/ethr): Cross platform network performance measurement tool.
