@@ -15,10 +15,26 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go: Ten years and climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
 * [Go: A Documentary](https://github.com/golang-design/history#origin)
 
-## Run Examples
+## Run examples
 * [The Go Play Space](https://goplay.space/)
 * [The Go Playground](https://play.golang.org/)
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
+
+## Go community
+* [Go Get Started](https://go.dev/learn/)
+* [Go Developer Survey 2020 Results](https://go.dev/blog/survey2020-results)
+* [Gophercon](https://www.gophercon.com/)
+* [Go Forum](https://forum.golangbridge.org/)
+* [Gophers Slack](https://gophers.slack.com/)
+* [Go Developers Network (GDN)](https://www.meetup.com/pro/go)
+* [Go Conferences and Major Events](https://github.com/golang/go/wiki/Conferences#go-conferences-and-major-events)
+* [Go Language Collective](https://stackoverflow.com/collectives/go)
+* [Reddit](https://www.reddit.com/r/golang/)
+* [Gophers Discord](https://discord.gg/golang)
+* [golang-nuts mailing list](https://groups.google.com/forum/#!forum/golang-nuts)
+* [The Go Blog](https://go.dev/blog/)
+* [Go Community Code of Conduct](https://golang.org/conduct)
+* [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq)
 
 ## Training
 * [Go - Getting Started](https://learn.go.dev/)
@@ -50,7 +66,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go cheatsheet](https://devhints.io/go)
 * [Go Collective](https://stackoverflow.com/collectives/go)
 
-### More Links
+### More links
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
 * [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
 * [Go Training Important Reading](https://github.com/ardanlabs/gotraining/tree/master/reading)
@@ -77,7 +93,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Articles complaining that Go isn't good enough](https://github.com/ksimka/go-is-not-good)
 * [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
 
-### Writing Go Code 
+### Writing Go code 
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [Go Patterns](http://tmrts.com/go-patterns/) 
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
@@ -303,12 +319,6 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Github or Gerrit?
 * [Accept Github PRs](https://github.com/golang/go/issues/18517)
 * [Just Use Github](https://github.com/golang/go/issues/21956)
-
-## Community
-* [Go Forum](https://forum.golangbridge.org/)
-* [Gophers Slack](https://gophers.slack.com/)
-* [Reddit](https://www.reddit.com/r/golang/)
-* [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts)
 
 ## Tools 
 * [Awesome Go Linters](https://github.com/golangci/awesome-go-linters)
