@@ -9,6 +9,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ## Priceless
 * [Gopherize Me](https://gopherize.me) :ok_hand:
+* [Go in 100 Seconds](https://www.youtube.com/watch?v=446E-r0rXHI) :hourglass_flowing_sand:
 
 ## History
 * [Go Origins](https://golang.org/doc/faq#Origins)
