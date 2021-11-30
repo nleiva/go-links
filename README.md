@@ -19,18 +19,19 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ## Run examples
 * [The Go Play Space](https://goplay.space/)
 * [The Go Playground](https://play.golang.org/)
+* [The Gotip Playground](https://gotipplay.golang.org/)
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
 
 ## Go community
 * [Go Developer Survey 2020 Results](https://go.dev/blog/survey2020-results)
 * [Go Forum](https://forum.golangbridge.org/)
 * [Gophers Slack](https://gophers.slack.com/)
-* [Go Language Collective](https://stackoverflow.com/collectives/go)
+* [Gophers Discord](https://discord.gg/golang)
+* [Go Language Collective - Stack Overflow](https://stackoverflow.com/collectives/go)
 * [Go Developers Network (GDN)](https://www.meetup.com/pro/go)
 * [Go Conferences and Major Events](https://github.com/golang/go/wiki/Conferences#go-conferences-and-major-events)
 * [Gophercon](https://www.gophercon.com/)
 * [Reddit](https://www.reddit.com/r/golang/)
-* [Gophers Discord](https://discord.gg/golang)
 * [golang-nuts mailing list](https://groups.google.com/forum/#!forum/golang-nuts)
 * [The Go Blog](https://go.dev/blog/)
 * [Go Community Code of Conduct](https://golang.org/conduct)
@@ -48,24 +49,24 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [A Tour of Go](https://tour.golang.org/welcome/1): A tour of the Go programming language by the Go team.
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/): Explore the Go language by writing tests by Chris James.
 * [Go language course](https://github.com/RedHatOfficial/GoCourse#go-language-course): Red Hat's Go language course in Go present format.
-* [An Introduction to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
+* [An Introduction to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern): by Francesc Campoy Flores (2019).
   * [Day 1](http://cds.cern.ch/record/2658368)
   * [Day 2](http://cds.cern.ch/record/2659409)
   * [Day 3](http://cds.cern.ch/record/2659408)
-* [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
+* [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): by Francesc Campoy Flores (2016).
 * [Go cheatsheet](https://devhints.io/go)
+* [Go vs. Python](http://govspy.peterbe.com/): Syntax side-by-side.
 
 ### Intermediate
-* [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
-* [Practical Go - GoSG Meetup](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
-* [Go Training Class Material](https://github.com/ardanlabs/gotraining/tree/master/topics/go) by [ArdanLabs](https://www.ardanlabs.com/)
+* [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop): by Dave Cheney.
+* [Practical Go Workshop](https://www.youtube.com/watch?v=gi7t6Pl9rxE): by Dave Cheney (2019).
+* [Go Training Class Material](https://github.com/ardanlabs/gotraining/tree/master/topics/go): by [ArdanLabs](https://www.ardanlabs.com/).
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Algorithms to Go](https://yourbasic.org/)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
 * [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
 * [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
-* [Go vs. Python](http://govspy.peterbe.com/)
 
 ### More links
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
