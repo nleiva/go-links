@@ -22,14 +22,13 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
 
 ## Go community
-* [Go Get Started](https://go.dev/learn/)
 * [Go Developer Survey 2020 Results](https://go.dev/blog/survey2020-results)
-* [Gophercon](https://www.gophercon.com/)
 * [Go Forum](https://forum.golangbridge.org/)
 * [Gophers Slack](https://gophers.slack.com/)
+* [Go Language Collective](https://stackoverflow.com/collectives/go)
 * [Go Developers Network (GDN)](https://www.meetup.com/pro/go)
 * [Go Conferences and Major Events](https://github.com/golang/go/wiki/Conferences#go-conferences-and-major-events)
-* [Go Language Collective](https://stackoverflow.com/collectives/go)
+* [Gophercon](https://www.gophercon.com/)
 * [Reddit](https://www.reddit.com/r/golang/)
 * [Gophers Discord](https://discord.gg/golang)
 * [golang-nuts mailing list](https://groups.google.com/forum/#!forum/golang-nuts)
@@ -38,9 +37,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq)
 
 ## Training
-* [Go - Getting Started](https://learn.go.dev/)
+* [Getting Started](https://learn.go.dev/): Learning Resources from Go's Get Started web page.
 * [Play with Go](https://play-with-go.dev/): Hands-on, interactive guides for programming in Go.
-* [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX)
+* [Go on Exercism](https://exercism.org/tracks/go): Access to 128 exercises grouped into 26 Go Concepts, with automatic analysis of your code and personal mentoring, all 100% free.
+* [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX): Youtube playlist by Failing Forward.
 * [Go Language Basics](http://www.golangdevops.com/2018/12/28/go-language-basics/), [PDF](https://github.com/johnsiilver/go_basics/blob/master/go_basics.pdf)
 * [Go by Example](https://gobyexample.com/)
 * [A Tour of Go](https://tour.golang.org/welcome/1)
