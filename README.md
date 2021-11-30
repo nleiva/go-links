@@ -37,35 +37,35 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq)
 
 ## Training
+
+### Beginner
 * [Getting Started](https://learn.go.dev/): Learning Resources from Go's Get Started web page.
 * [Play with Go](https://play-with-go.dev/): Hands-on, interactive guides for programming in Go.
 * [Go on Exercism](https://exercism.org/tracks/go): Access to 128 exercises grouped into 26 Go Concepts, with automatic analysis of your code and personal mentoring, all 100% free.
 * [Introduction to Go](https://www.youtube.com/playlist?list=PLq9Ra239pNZC0MgMN4j6ZiPHv_c0UPnBX): Youtube playlist by Failing Forward.
-* [Go Language Basics](http://www.golangdevops.com/2018/12/28/go-language-basics/), [PDF](https://github.com/johnsiilver/go_basics/blob/master/go_basics.pdf)
-* [Go by Example](https://gobyexample.com/)
-* [A Tour of Go](https://tour.golang.org/welcome/1)
-* [GoLang Training](https://github.com/smileisak/go-training)
-* [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
-* [Go language course](https://github.com/RedHatOfficial/GoCourse)
-* [Golang By Example](https://golangbyexample.com/)
-* [Go vs. Python](http://govspy.peterbe.com/)
-* [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
-* [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
-* [Practical Go - GoSG Meetup](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
-* [Go Training Class Material](https://github.com/ardanlabs/gotraining/tree/master/topics/go) by [ArdanLabs](https://www.ardanlabs.com/)
-* [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
+* [Go Language Basics](http://www.golangdevops.com/2018/12/28/go-language-basics/), [PDF](https://github.com/johnsiilver/go_basics/blob/master/go_basics.pdf): Go class taught at Google and Microsoft around the globe by John Doak.
+* [Go by Example](https://gobyexample.com/): Hands-on introduction to Go using annotated example programs by Mark McGranaghan and Eli Bendersky.
+* [A Tour of Go](https://tour.golang.org/welcome/1): A tour of the Go programming language by the Go team.
+* [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/): Explore the Go language by writing tests by Chris James.
+* [Go language course](https://github.com/RedHatOfficial/GoCourse#go-language-course): Red Hat's Go language course in Go present format.
 * [An Introduction to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern)
   * [Day 1](http://cds.cern.ch/record/2658368)
   * [Day 2](http://cds.cern.ch/record/2659409)
   * [Day 3](http://cds.cern.ch/record/2659408)
+* [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop)
+* [Go cheatsheet](https://devhints.io/go)
+
+### Intermediate
+* [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop)
+* [Practical Go - GoSG Meetup](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
+* [Go Training Class Material](https://github.com/ardanlabs/gotraining/tree/master/topics/go) by [ArdanLabs](https://www.ardanlabs.com/)
+* [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Algorithms to Go](https://yourbasic.org/)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
 * [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
-* [A quick reference for the go language](https://github.com/bcomnes/goref)
 * [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
-* [Go cheatsheet](https://devhints.io/go)
-* [Go Collective](https://stackoverflow.com/collectives/go)
+* [Go vs. Python](http://govspy.peterbe.com/)
 
 ### More links
 * [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
