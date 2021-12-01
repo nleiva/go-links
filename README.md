@@ -241,6 +241,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [scrapligo](https://github.com/scrapli/scrapligo): Connecting to devices, specifically network devices (routers/switches/firewalls/etc.) via SSH and NETCONF.
 * [Commando](https://github.com/hellt/cmdo): Tiny tool that enables users to collect command outputs from a single or a multiple networking devices defined in an inventory file.
 * [go-netconf](https://github.com/Juniper/go-netconf): Simple NETCONF client based on RFC6241 and RFC6242.
+* [NETCONF client](https://github.com/openshift-telco/go-netconf-client): Adapted Network Configuration Protocol (NETCONF) client from previous implementations.
 
 #### Network simulation/emulation
 * [Containerlab](https://github.com/srl-labs/containerlab): Provides a CLI for orchestrating and managing container-based networking labs.
