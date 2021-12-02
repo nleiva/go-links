@@ -53,6 +53,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
   * [Day 1](http://cds.cern.ch/record/2658368)
   * [Day 2](http://cds.cern.ch/record/2659409)
   * [Day 3](http://cds.cern.ch/record/2659408)
+* [Go 101](https://go101.org/article/101.html): An online-book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17 ready) by Tapir Liu.
 * [Go Tooling in Action](https://github.com/campoy/go-tooling-workshop): by Francesc Campoy Flores (2016).
 * [Go cheatsheet](https://devhints.io/go)
 * [Go vs. Python](http://govspy.peterbe.com/): Syntax side-by-side.
@@ -420,6 +421,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go Bootcamp](http://www.golangbootcamp.com/book)
 * [Essential Go ](https://essential-go.programming-books.io/)
 * [Go Internals](https://github.com/teh-cmc/go-internals): A work-in-progress book about the internals of the Go (1.10+) programming language.
+* [Go 101](https://github.com/go101/go101): An online-book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17 ready) by Tapir Liu.
 * [The Go Programming Language](http://www.gopl.io/)
 * [Go in Action](https://www.manning.com/books/go-in-action)
 * [The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit?usp=sharing)
