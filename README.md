@@ -239,7 +239,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Networking
 * [Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/): Timeouts, HTTP Response Bodies, HTTP/1.x Keep-alives, net.IP is Mutable, etc.
 * [cidranger](https://github.com/yl2chen/cidranger): Fast IP to CIDR lookup for Go.
-* [GeoIP2 Reader for Go]: IP address geolocation.
+* [GeoIP2 Reader for Go](https://github.com/oschwald/geoip2-golang): IP address geolocation.
 * [IPLib](https://github.com/c-robinson/iplib): Library built around and on top of the address primitives found in the net package to bring Python's ipaddress and Ruby's ipaddr capabilities to Go.
 
 #### Network Device interaction
