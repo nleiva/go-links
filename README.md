@@ -49,6 +49,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [A Tour of Go](https://tour.golang.org/welcome/1): A tour of the Go programming language by the Go team.
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/): Explore the Go language by writing tests by Chris James.
 * [Go language course](https://github.com/RedHatOfficial/GoCourse#go-language-course): Red Hat's Go language course in Go present format.
+* [learn-golang.org](https://www.learn-golang.org/): Interactive Go tutorial.
+* [cosmiclearn.com](https://www.cosmiclearn.com/go/): Space themed Go tutorial.
+* [golangbot.com](https://golangbot.com/learn-golang-series/): Go tutorial series.
 * [An Introduction to Go](https://speakerdeck.com/campoy/an-introduction-to-go-cern): by Francesc Campoy Flores (2019).
   * [Day 1](http://cds.cern.ch/record/2658368)
   * [Day 2](http://cds.cern.ch/record/2659409)
@@ -70,13 +73,14 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
 
 ### More links
-* [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers)
-* [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list)
-* [Go Training Important Reading](https://github.com/ardanlabs/gotraining/tree/master/reading)
-* [Go Wiki](https://github.com/golang/go/wiki)
-* [Awesome Go](https://github.com/avelino/awesome-go)
-* [Go talks](https://talks.golang.org/)
-* [Go Articles](https://golang.org/doc/#articles)
+* [Resources for new Go programmers](https://dave.cheney.net/resources-for-new-go-programmers): by Dave Cheney.
+* [A Gopher's Reading List](https://github.com/enocom/gopher-reading-list): Reading list of blog posts about Go, by Eno Compton.
+* [Go Training Important Reading](https://github.com/ardanlabs/gotraining/tree/master/reading): To complement Ardan Labs' material, by William Kennedy.
+* [Awesome Go Education](https://mehdihadeli.github.io/awesome-go-education/): A curated list of awesome articles and resources for learning and practicing Go and its related technologies.
+* [Go Wiki](https://github.com/golang/go/wiki): A collection of information about the Go Programming Language, by the Go team.
+* [Awesome Go](https://github.com/avelino/awesome-go): A curated list of awesome Go frameworks, libraries and software
+* [Go talks](https://talks.golang.org/): Talks by the Go team, last updated 2019.
+* [Go Articles](https://golang.org/doc/#articles): Official articles index, by the Go team.
 
 ### Why Go?
 * [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
