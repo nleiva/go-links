@@ -64,6 +64,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 ### Intermediate
 * [High Performence Go Workshop](https://github.com/davecheney/high-performance-go-workshop): by Dave Cheney.
 * [Practical Go Workshop](https://www.youtube.com/watch?v=gi7t6Pl9rxE): by Dave Cheney (2019).
+* [Gophercises](https://gophercises.com/): Free course to build roughly 20 different mini-applications, packages, and tools that are each designed to teach you something different by [Jon Calhoun](https://twitter.com/joncalhoun).
 * [Go Training Class Material](https://github.com/ardanlabs/gotraining/tree/master/topics/go): by [ArdanLabs](https://www.ardanlabs.com/).
 * [Ultimate Go Programming - Video](https://www.safaribooksonline.com/library/view/ultimate-go-programming/9780134757476/)
 * [Algorithms to Go](https://yourbasic.org/)
