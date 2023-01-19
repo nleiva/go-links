@@ -18,6 +18,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 
 ## Run examples
 * [The Go Play Space](https://goplay.space/)
+* [Better Go Playground](https://goplay.tools/)
 * [The Go Playground](https://play.golang.org/)
 * [The Gotip Playground](https://gotipplay.golang.org/)
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
