@@ -119,8 +119,9 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [The Ultimate Go Notebook](https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit?usp=sharing)
 * [Go in Practice](https://www.manning.com/books/go-in-practice)
 
-## Tools 
+## Tools
 * [Awesome Go Linters](https://github.com/golangci/awesome-go-linters)
+* [Go Recipes](https://github.com/nikolaydubina/go-recipes): Handy well-known and lesser-known tools for Go projects.
 
 ### IDE
 * [Visual Studio Code](https://code.visualstudio.com/)
