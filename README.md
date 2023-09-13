@@ -168,6 +168,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Algorithms to Go](https://yourbasic.org/)
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Go Proverbs](https://go-proverbs.github.io/)
+* [Go-datastructures](https://github.com/Workiva/go-datastructures): Go-datastructures is a collection of useful, performant, and threadsafe Go datastructures.
 * [Building Go from Source](https://carolynvanslyck.com/blog/2018/07/building-go-from-source/)
 * [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode)
 
