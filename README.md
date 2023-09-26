@@ -206,6 +206,7 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
 * [Effective Go](https://golang.org/doc/effective_go.html)
+* [100 Go Mistakes and How to Avoid Them](https://100go.co/): Summary of all the mistakes in the 100 Go Mistakes book.
 * [Ten commandments of Go](https://bitfieldconsulting.com/golang/commandments)
 * [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 * [Workshop: Practical Go - GoSG Meetup](https://www.youtube.com/watch?v=gi7t6Pl9rxE)
