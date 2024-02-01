@@ -201,7 +201,8 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Ten Reasons Why I Don't Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html)
 
 ### Writing Go code 
-* [How to Write Go Code](https://golang.org/doc/code.html)
+* [How to Write Go Code](https://golang.org/doc/code.html): This document demonstrates the development of a simple Go package inside a module and introduces the go tool, the standard way to fetch, build, and install Go modules, packages, and commands.
+* [Go Style guide](https://google.github.io/styleguide/go/): The Go Style Guide and accompanying documents codify the current best approaches for writing readable and idiomatic Go. 
 * [Go Patterns](http://tmrts.com/go-patterns/) 
 * [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [How to avoid Go gotchas](http://divan.github.io/posts/avoid_gotchas/)
