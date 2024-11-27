@@ -16,9 +16,10 @@ Everybody has their own list, I get it!, I guess this is just mine or it was ini
 * [Go: Ten years and climbing](https://commandcenter.blogspot.com/2017/09/go-ten-years-and-climbing.html)
 * [Go: A Documentary](https://github.com/golang-design/history#origin)
 
-## Run examples
-* [The Go Play Space](https://goplay.space/)
-* [Better Go Playground](https://goplay.tools/)
+## Run examples online
+* [The Go Play Space](https://goplay.space/): By [Igor Afanasyev](https://github.com/iafan).
+* [Better Go Playground](https://goplay.tools/): By [Denys Sedchenko](https://github.com/x1unix).
+* [Pyroscope Go Playground](https://playground.flamegraph.com/playground)
 * [The Go Playground](https://play.golang.org/)
 * [The Gotip Playground](https://gotipplay.golang.org/)
 * [Playground v3 implementation](https://talks.golang.org/2019/playground-v3/playground-v3.slide#1)
